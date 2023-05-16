@@ -1,0 +1,14 @@
+name: "Personal Portfolio of Naixing Huang"
+navbar:
+  title: "Personal Portfolio"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
+    include:
+    css: styless.css
