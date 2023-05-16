@@ -1,0 +1,19 @@
+---
+title: "Nice to meet you!"
+---
+
+
+<!-- Left Column -->
+<div class="left-column">
+  <!-- Insert your photo here -->
+  <img src="photo.png" alt="Your Photo" style="width: 30%;">
+</div>
+
+
+
+
+About Me:
+
+    Hi there! I’m a first year grad student in OHSU and major in Biomedical engineering. I am quite interested in exploring science and images data processing & visualization! I am passionate about creating fancy figure to draw attention from user/audience. In the future, I will keep working on learning, researching, and exploring science and technique. Please click the About page to see my plot of Nathan's Hot Dog Contest.
+
+Photo:

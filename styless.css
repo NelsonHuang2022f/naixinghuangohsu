@@ -1,0 +1,53 @@
+<style>
+/* Container */
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Adjust the height as needed */
+}
+
+/* Profile Image */
+.left-column {
+  width: 800px; /* Adjust the width as needed */
+  height: 800px; /* Adjust the height as needed */
+  border-radius: 50%;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  position: absolute;
+  top: 80%; /* Adjust the vertical position */
+  left: 50%; /* Adjust the horizontal position */
+  transform: translate(-50%, -50%);
+}
+
+/* Additional Styling */
+h2 {
+  color: #333;
+  font-size: 48px;
+  margin-bottom: 10px;
+  font-family: 'Arial', sans-serif; 
+  font-weight: bold;
+}
+
+p {
+  color: #777;
+  font-size: 32px;
+  line-height: 1.5;
+  font-family: 'Helvetica', sans-serif;
+}
+
+h3 {
+  color: #333;
+  font-size: 48px;
+  margin-bottom: 10px;
+  font-family: 'Arial', sans-serif; 
+  font-weight: bold;
+}
+
+body {
+  background-color: #CCB683; /* Replace with your desired background color */
+}
+
+</style>
+
+
